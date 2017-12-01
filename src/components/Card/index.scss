@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+#cart{
+	width:100%;
+	height:130px;
+}
+.cartimg{
+	width:150px;
+	height:120px;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	width:150px;
+	text-align:center;
+	float:right;
+	margin-right:20px;
+}
+
+.title{
+	font:16px/24px"";
+	color:#000;
+	margin-top:20px;
+}
+
+.num{
+	color:red;
+	margin-top:10px;
+	font:16px/24px"";
+}
+
+.del{
+	margin-top:10px;
+	background:red;
+}
